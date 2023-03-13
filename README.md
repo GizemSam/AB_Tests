@@ -26,12 +26,12 @@ kazanç bilgileri yer almaktadır.
 
 ## 1. Hipotezleri Kur
 ## 2. Varsayım Kontrolü
-###   - 1. Normallik Varsayımı (shapiro)
-###   - 2. Varyans Homojenliği (levene)
+- Normallik Varsayımı (shapiro)
+- Varyans Homojenliği (levene)
 ## 3. Hipotezin Uygulanması
-###   - 1. Varsayımlar sağlanıyorsa bağımsız iki örneklem t testi
-###   - 2. Varsayımlar sağlanmıyorsa mannwhitneyu testi
+- Varsayımlar sağlanıyorsa bağımsız iki örneklem t testi
+- Varsayımlar sağlanmıyorsa mannwhitneyu testi
 ## 4. p-value değerine göre sonuçları yorumla
 ### Not:
-### - Normallik sağlanmıyorsa direkt 2 numara. Varyans homojenliği sağlanmıyorsa 1 numaraya arguman girilir.
-### - Normallik incelemesi öncesi aykırı değer incelemesi ve düzeltmesi yapmak faydalı olabilir.
+- Normallik sağlanmıyorsa direkt 2 numara. Varyans homojenliği sağlanmıyorsa 1 numaraya arguman girilir.
+- Normallik incelemesi öncesi aykırı değer incelemesi ve düzeltmesi yapmak faydalı olabilir.
